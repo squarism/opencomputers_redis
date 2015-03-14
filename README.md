@@ -59,3 +59,7 @@ out of minecraft.  From there, I'm pushing it to statsd.  See the sister
 project
 [minecraft_metrics](https://github.com/squarism/minecraft_metrics) for details on that.
 
+
+## Credits
+
+Thank you to Daniele Alessandri for the real lua redis client.
