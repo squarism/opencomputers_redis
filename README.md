@@ -1,4 +1,4 @@
-An alpha-quality redis client for Opencomputers.
+An alpha-quality redis client for Minecraft (Opencomputers mod).
 
 ## Installing
 
